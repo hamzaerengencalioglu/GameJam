@@ -1,2 +1,2 @@
-# GameJam1
+# OneMinute
  
